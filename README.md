@@ -1,5 +1,5 @@
 # - 👋 Hi, I’m David Peace Emem
-## - 🥇 I'm a prospective Data Analyst
+## - 🥇 I'm a Credit Risk/Collections Specialist and prospective Data Analyst 
 - 👀 I’m interested in Data Science, Risk Management and Human Capital Development
 - 🌱 I’m currently learning Data Analysis with Dahel Techies
 - 💞️ I’m looking to collaborate on Beginners project,start up Founders and Business Owners
